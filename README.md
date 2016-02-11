@@ -1,0 +1,2 @@
+# SampleCodeCheck
+Trying my repository
